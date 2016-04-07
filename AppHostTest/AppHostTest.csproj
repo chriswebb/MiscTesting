@@ -7,8 +7,8 @@
     <ProjectGuid>{CF27CAF0-443F-46DF-AB02-7F876B325DCF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CoreDumpAppTest</RootNamespace>
-    <AssemblyName>CoreDumpAppTest</AssemblyName>
+    <RootNamespace>AppHostTest</RootNamespace>
+    <AssemblyName>AppHostTest</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
